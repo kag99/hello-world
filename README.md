@@ -1,2 +1,2 @@
 # hello-world
-Demo Repository for android
+Demo Repository for android and ios
